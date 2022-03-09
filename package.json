@@ -1,0 +1,11 @@
+{
+  "name": "testese2e",
+  "version": "1.0.0",
+  "description": "Create to learn how to use e22 to make tests with web APIS with JEST and nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maykon S. Santos",
+  "license": "ISC"
+}
